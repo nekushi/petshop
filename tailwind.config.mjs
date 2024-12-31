@@ -10,6 +10,18 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        paleRed: "#F89197",
+        darkRed: "#B72831",
+        newRed: "#FF2C2C",
+      },
+      inset: {
+        "88": "22rem",
+        "100": "25rem",
+      },
+      rotate: {
+        20: "20deg",
+        26: "26deg",
+        37: "37deg",
       },
     },
   },
